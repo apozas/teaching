@@ -1,2 +1,1 @@
-# teaching
-Teaching resources
+Teaching resources I have been developing throughout time.
